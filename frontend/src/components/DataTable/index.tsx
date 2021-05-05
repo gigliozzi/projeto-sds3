@@ -22,7 +22,7 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>18/04/2021</td>
-                        <td>Ana Maria</td>
+                        <td>Anakin</td>
                         <td>15</td>
                         <td>10</td>
                         <td>11010.00</td>
@@ -64,21 +64,21 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>27/04/2021</td>
-                        <td>Sara Ribeiro</td>
+                        <td>Kal-El</td>
                         <td>31</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>23/04/2021</td>
-                        <td>Roberto Souza</td>
+                        <td>Logan</td>
                         <td>21</td>
                         <td>15</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>16/04/2021</td>
-                        <td>Maria Barros</td>
+                        <td>Padmé</td>
                         <td>34</td>
                         <td>34</td>
                         <td>28000.00</td>
